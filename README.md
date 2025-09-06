@@ -1,4 +1,4 @@
-# Papers of RLHF
+# Papers of RL+LLM
 
 This is a collection of papers in Reinforcement Learning with Human Feedback (RLHF) that I found important. I summarized the papers I collected and made my comments. I understand there are always some important papers I have missed, and I will constantly update to my best efforts.
 
