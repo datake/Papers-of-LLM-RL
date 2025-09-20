@@ -4,6 +4,15 @@ This is a collection of papers in Reinforcement Learning with Human Feedback (RL
 
 **Contact** : [Ke Sun](https://sites.google.com/view/kesun), ksun6@ualberta.ca
 
+## Continual Alignment / Preference Learning
+
+
+* [CPPO: Continual Learning for Reinforcement Learning with Human Feedback](https://openreview.net/forum?id=86zAUE80pP) (ICLR 2024)
+> This paper is the first to consider the continual RLHF with dynamic preference learning by using the sample-wise reweighting method based on performance and variance.
+
+* [Continual Learning for Large Language Models: A Survey](https://arxiv.org/pdf/2402.01364) 
+
+
 ## 2024
 
 * [Reinforcement Learning from Human Feedback with Active Queries](https://arxiv.org/pdf/2402.09401.pdf) **(Arxiv)**
